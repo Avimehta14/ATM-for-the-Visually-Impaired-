@@ -12,15 +12,15 @@ LIBRARIES USED: pyttsx3 , random, gtts, speech_recognition , os, csv, getpass_ak
   numbers and names.
   
 * The model involves cash withdarwal , cash deposit and balance inquiry and pin change functions whcih are all voice 
-  controlled and keypad controlled.
+  controlled and keypad controlled for normal usage.
   
 * All errors have been handled diligently and special security features have been added such as:
-  i) Account number has to be 16 digits and the password has to be 4 digits .
-  ii)A max for 3 illegal entries is allowed and after that the programme will terminate itself.
-  iii)Any wrong or illegal input wil result in programme termination (similar to a real ATM).
-  iv)integrity of each input has been checked and only then accepted.
+  1. Account number has to be 16 digits and the password has to be 4 digits .
+  2.A max for 3 illegal entries is allowed and after that the programme will terminate itself.
+  3. Any wrong or illegal input wil result in programme termination (similar to a real ATM).
+     integrity of each input has been checked and only then accepted.
   
-* A personalized library has been imported for displaying '*' for password input to make it more secure .
+* A personalized library has been imported for displaying '*' for password input to make it more secure.
 
  
   
