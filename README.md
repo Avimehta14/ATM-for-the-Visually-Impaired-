@@ -22,7 +22,7 @@ LIBRARIES USED: pyttsx3 , random, gtts, speech_recognition , os, csv, getpass_ak
   
 * A personalized library has been imported for displaying '*' for password input to make it more secure .
 
-  
+ 
   
   
 ** NOTE : THE PROGRAMME REQUIRES A GOOD NETWORK CONNECTION AND A QUIET BACKGROUUND FOR SPEECH RECOGNITION.
